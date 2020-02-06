@@ -54,11 +54,9 @@ help me maintain it and keep adding more colors to your Proton email experience,
 
 **I Want Support** ❤️
 
-<form action="https://www.paypal.me/heriberto1717" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="image" src="https://www.paypalobjects.com/en_US/MX/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="I Want Donate" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_MX/i/scr/pixel.gif" width="1" height="1" />
-</form>
+<a href='https://www.paypal.me/heriberto1717'>
+<img src='https://www.paypalobjects.com/en_US/MX/i/btn/btn_donateCC_LG.gif' alt='PayPal Me' width='140' />
+</a>
 
 ### License
 
