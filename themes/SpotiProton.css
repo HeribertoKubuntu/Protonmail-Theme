@@ -338,7 +338,6 @@ body .cg-notify-message.notification-success {
   background: #292929;
   color: #fff; }
 
-/* Conversation View Top */
 #conversation-view .message .details {
   background: rgba(206, 236, 197, 0.7);
 }
